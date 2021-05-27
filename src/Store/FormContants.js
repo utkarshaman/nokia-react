@@ -1,0 +1,2 @@
+export const SAVE_TO_REDUX = "SAVE_TO_REDUX"
+export const FETCH_FROM_REDUX="FETCH_FROM_REDUX"
